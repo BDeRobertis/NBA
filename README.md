@@ -1,7 +1,7 @@
 # NBA
 
 
-Estrategia Basada en Datos para la Adquisición de Derechos Televisivos de la NBA 🚀
+## Estrategia Basada en Datos para la Adquisición de Derechos Televisivos de la NBA 🚀
 ![dataset-cover](https://github.com/user-attachments/assets/3a8c6038-b2cc-4735-9c31-50ee2889e316)
 
 
