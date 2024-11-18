@@ -2,7 +2,8 @@
 
 
 Estrategia Basada en Datos para la Adquisición de Derechos Televisivos de la NBA 🚀
-![Uploading dataset-cover.png…]()
+![dataset-cover](https://github.com/user-attachments/assets/3a8c6038-b2cc-4735-9c31-50ee2889e316)
+
 
 
 Resumen del Proyecto
